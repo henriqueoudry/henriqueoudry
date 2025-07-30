@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F7F7F&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005DF0&height=120&section=header"/>
 
 <div align="center">
 <img src="https://preview.redd.it/xhq3m5i9u1gf1.jpeg?width=1080&crop=smart&auto=webp&s=324319ce2b3e280599850dc01ee3cc5971e25326" width="25%" align="right" />
@@ -16,4 +16,4 @@
 ![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F7F7F&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=005DF0&height=120&section=footer"/>
